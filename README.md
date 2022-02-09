@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<!-- Banking App -->
+## 1. first of all  we need to create a  signup form for the user.
+####  user signup key 
+* Account no.
+* Debit card no.
+* Full name 
+* Mobile no
+* pin to transaction
+* id 

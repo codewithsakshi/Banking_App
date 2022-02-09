@@ -1,0 +1,31 @@
+#user_form input{
+    min-width: 300px;
+    display: block;
+    padding: 8px;
+}
+
+#user_form label{
+    min-width: 200px;
+}
+
+#user_form{
+    min-width: 400px;
+    max-width: 600px;
+    margin: auto;
+    background-color: antiquewhite;
+    box-shadow: 3px 3px 3px rgba(150, 120, 180, 0.4);
+    padding: 20px 0 20px 40px;
+    border-radius: 10px;
+}
+
+.input_label{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.btn{
+    width: 150px;
+    padding: 7px;
+}
